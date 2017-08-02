@@ -29,3 +29,19 @@ header {
 #item2 {
   text-align: right
 }
+ol > li {
+   padding: 5% 10%;
+   background-color: grey
+ }
+ol li:nth-child(odd) {
+   background-color: green
+ }
+ .exercises a:hover {
+   text-decoration: none
+ }
+ ul li > a:hover {
+   background-color: yellow}
+ }
+ ul li > a:active {
+   background-color: red
+ }
