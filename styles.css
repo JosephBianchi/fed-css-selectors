@@ -1,2 +1,31 @@
-/* Move your styles here when you're ready to clean up your HTML file */
-/* Don't forget to link to this file in your HTML, otherwise your styles won't show up! */
+html {
+  font-size: 17px
+}
+h1 {
+  font-family: Georgia, Times, serif
+}
+h2 {
+  font-family: Georgia, Times, serif;
+  font-style: oblique
+}
+header {
+  border-bottom: 6px dotted green
+}
+.class-list {
+  list-style-type: square
+}
+.item {
+  border: 2px double red
+}
+.even {
+  background-color: grey
+}
+.odd {
+  background-color: white
+}
+#item1 {
+  font-size: 30px
+}
+#item2 {
+  text-align: right
+}
